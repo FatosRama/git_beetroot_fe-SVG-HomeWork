@@ -1,0 +1,9 @@
+<svg class="key" width="512" height="512" viewBox="0 0 512 512">
+        <rect width="250px" height="180px" x="130" y="25" stroke="black" stroke-width="40" rx="80" ry="100"/> 
+        <rect width="220px" height="160px" x="145" y="35" fill="white" rx="80" ry="100"/> 
+        <rect width="50px" height="25px" x="235" y="222.5" fill="black"/>
+        <rect width="30px" height="305" x="245" y="245" fill="black"/>
+        <rect width="35px" height="40px" x="272.5" y="352" fill="black" />
+        <rect width="70px" height="40px" x="272.5" y="412" fill="black" />
+        <rect width="105px" height="40px" x="272.5" y="472" fill="black" />
+    </svg>

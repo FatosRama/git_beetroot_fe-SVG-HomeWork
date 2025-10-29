@@ -1,0 +1,5 @@
+<svg class="youtube" width="512" height="512" viewBox="0 0 512 512">
+        <rect width="512px" height="360px"  y="15" rx="110" ry="150" fill="#D8362A" />
+        <rect width="512px" height="360px"  y="30" rx="110" ry="150" fill="#D8362A" />
+        <polygon points="195 105,195 295,360 200" fill="white"/>
+    </svg>
